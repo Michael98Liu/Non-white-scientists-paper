@@ -1,4 +1,4 @@
-# Non-white-scientists-paper
+# Non-White scientists appear on fewer editorial boards, spend more time under review, and receive fewer citations
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7648278.svg)](https://doi.org/10.5281/zenodo.7648278)
 
